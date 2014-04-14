@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>me.ytliu.alfred2-ascii-translator</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>21557827-8003-42B7-A042-16D4C9278FEC</key>
+		<array/>
+	</dict>
+	<key>createdby</key>
+	<string>Yutao Liu</string>
+	<key>description</key>
+	<string>Translate between Character and ASCII</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>ASCII Translator</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>62</integer>
+				<key>keyword</key>
+				<string>ascii</string>
+				<key>runningsubtext</key>
+				<string>working...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./main.rb {query}</string>
+				<key>subtext</key>
+				<string>Translate between characters and ASCII</string>
+				<key>title</key>
+				<string>ASCII Translator</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>21557827-8003-42B7-A042-16D4C9278FEC</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>This is a Alfred workflow which can translate one or more decimal or hexadecimal number to ASCII characters, and vice versa.</string>
+	<key>uidata</key>
+	<dict>
+		<key>21557827-8003-42B7-A042-16D4C9278FEC</key>
+		<dict>
+			<key>ypos</key>
+			<real>140</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+# Logfile created on 2014-04-13 19:22:27 +0800 by logger.rb/41954
+I, [2014-04-13T19:22:27.901043 #1411]  INFO -- : 0:  plist (3.1.0) from /Users/luisleo/Software/AlfredWorkflow/alfred2-ascii-translator/workflow/bundle/ruby/2.0.0/specifications/plist-3.1.0.gemspec
+I, [2014-04-13T19:22:30.066798 #1411]  INFO -- : 0:  alfred-workflow (1.8.0) from /Users/luisleo/Software/AlfredWorkflow/alfred2-ascii-translator/workflow/bundle/ruby/2.0.0/specifications/alfred-workflow-1.8.0.gemspec
+I, [2014-04-13T19:22:30.067297 #1411]  INFO -- : 0:  bundler (1.5.1) from /Users/luisleo/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source
