@@ -9,7 +9,9 @@ ascii [d|h|c] args
 ## Quick Example
 
 ascii d 65 64 67 32 42      # translate from decimal ascii codes to characters
+
 ascii h 6f 7b 53 4e         # translate from hexadecimal ascii codes to characters
+
 ascii c hello (are you ok)  # translate from characters to hexadecimal ascii codes
 
 ## Reference
