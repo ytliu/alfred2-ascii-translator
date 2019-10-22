@@ -82,7 +82,7 @@ GEM
     thor (0.18.1)
     travis-lint (1.7.0)
       hashr (~> 0.0.22)
-    yard (0.8.7.2)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
